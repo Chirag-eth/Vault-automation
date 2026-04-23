@@ -1,0 +1,211 @@
+league_id,team_id,name,alternate_name
+13,148234,Leicester City FC,lei1
+13,148257,FC Schalke 04,s041
+13,148266,AC Sparta Praha,spp1
+13,148268,AFC Ajax,aja1
+13,148271,APÓEL,apo2
+13,148273,AS Monaco FC,asm1
+13,148277,B36,b361
+13,148279,BSC Young Boys,yob1
+13,148282,Celtic FC,cel2
+13,148286,Club Brugge KV,bru1
+13,148288,Crusaders FC,cru1
+13,148291,CS Fola Esch,fol2
+13,148293,Dundalk FC,dun1
+13,148297,FC Basel 1893,bas1
+13,148299,SK Dila Gori,dil1
+13,148303,FCI Levadia,lev3
+13,148305,FC Midtjylland,mid1
+13,148308,FC Milsami Orhei,mil2
+13,148310,FC Porto,por1
+13,148312,Pyunik FA,pyu1
+13,148314,FC Red Bull Salzburg,rbs1
+13,148316,FC Santa Coloma,fsc1
+13,148318,FCSB,ste1
+13,148320,FC Viktoria Plzeň,plz1
+13,148322,FK Žalgiris Vilnius,zal1
+13,148324,Fenerbahçe SK,fen1
+13,148326,AS Trenčín,tre1
+13,148331,Astana FK,ast4
+13,148334,FK BATE Barysaŭ,bat2
+13,148336,FK Dynamo Kyiv,dyn1
+13,148339,FK Partizan Beograd,par2
+13,148341,FK Rudar Pljevlja,rud1
+13,148343,FK Sarajevo,sar1
+13,148345,FK Shakhtar Donetsk,shd1
+13,148347,FK Vardar Skopje,var1
+13,148349,FK Ventspils,ven1
+13,148351,FK Zenit,zen1
+13,148353,Galatasaray SK,gal1
+13,148357,GNK Dinamo Zagreb,din3
+13,148359,Hibernians FC,hib1
+13,148361,Helsingin JK,hjk1
+13,148365,KAA Gent,gen1
+13,148367,KF Skënderbeu Korçë,ske1
+13,148369,KKS Lech Poznań,lep1
+13,148373,Lincoln Red Imps FC,lin3
+13,148375,MH Maccabi Tel Aviv,mta1
+13,148377,Malmö FF,mal1
+13,148379,Molde FK,mol1
+13,148382,NK Maribor,mar2
+13,148384,Olympique Lyonnais,lyo1
+13,148386,Olympiakós SFP,oly1
+13,148389,Panathinaikós AO,pao2
+13,148391,Paris Saint-Germain FC,psg1
+13,148393,PFK CSKA Moskva,csk1
+13,148395,PFK Ludogorets 1945 Razgrad,lud1
+13,148397,PSV,psv1
+13,148399,Qarabağ Ağdam FK,qar1
+13,148405,SK Rapid Wien,rap1
+13,148407,Sport Lisboa e Benfica,ben1
+13,148409,Sporting CP,spo1
+13,148413,SS Folgore/Falciano,fol3
+13,148417,The New Saints FC,tns1
+13,148419,UMF Stjarnan,stj1
+13,148426,Fehérvár FC,vid1
+13,148447,AZ,az1
+13,148449,FC Twente '65,twe1
+13,148451,Feyenoord Rotterdam,fey1
+13,148454,AEK Lárnakas,aek2
+13,148460,AFC Astra Giurgiu,ast5
+13,148462,AIK Fotboll,aik1
+13,148464,Alashkert FA,ala1
+13,148468,Apóllon Lemesoú,apo3
+13,148470,AS Omónoia Leukosías,omo1
+13,148472,Beşiktaş JK,bes1
+13,148474,Brøndby IF,bro1
+13,148476,Cork City FC,coc1
+13,148478,Europa FC,eur1
+13,148480,F91 Diddeleng,f911
+13,148483,FC Déifferdeng 03,dif2
+13,148487,SK Dinamo Batumi,bat3
+13,148492,SK Dinamo Tbilisi,din4
+13,148495,FC Flora,flo2
+13,148497,FC København,kob1
+13,148500,FC Sheriff Tiraspol,she2
+13,148502,FC Spartak Trnava,trn1
+13,148504,FC Zürich,fcz1
+13,148506,Ferencvárosi TC,ftc1
+13,148508,FH Hafnarfjörður,fhh1
+13,148510,FK Budućnost Podgorica,bud1
+13,148512,FK Crvena zvezda,crv1
+13,148518,FK Dynama-Minsk,din5
+13,148520,Qairat FK,kai1
+13,148522,FK Krasnodar,kra1
+13,148524,FK Kukësi,kuk1
+13,148527,FK Lokomotiv Moskva,lok2
+13,148529,OFK Titograd,mla1
+13,148531,Ordabasy FK,ord1
+13,148535,FK Partizani,par3
+13,148537,FK Šachcior Salihorsk,sol1
+13,148540,FK Spartaks Jūrmala,spa2
+13,148542,FK Sutjeska Nikšić,sut1
+13,148544,MH Hapoel Be'er Sheva,hbs1
+13,148546,HB,hb1
+13,148548,HNK Rijeka,rij1
+13,148550,HŠK Zrinjski Mostar,zri1
+13,148552,Rams Başakşehir FK,iba1
+13,148554,Jagiellonia Białystok,jag1
+13,148557,KF Shkëndija 79,shk2
+13,148560,KF Víkingur,vik2
+13,148562,KR Reykjavík,krr1
+13,148564,Legia Warszawa,leg1
+13,148569,Linfield FC,lin4
+13,148571,MŠK Žilina,zil1
+13,148573,Neftçi PFK,nef1
+13,148577,NK Celje,cel3
+13,148581,NK Lokomotiva Zagreb,lok3
+13,148583,Nõmme Kalju FC,nom1
+13,148585,Olympique de Marseille,olm1
+13,148589,PAOK,pao3
+13,148591,Rosenborg BK,rbk1
+13,148593,Royal Standard de Liège,sta1
+13,148595,RSC Anderlecht,and1
+13,148597,Seinäjoen JK,sjk1
+13,148599,Shamrock Rovers FC,shr1
+13,148601,ŠK Slovan Bratislava,sba1
+13,148605,SK Puntigamer Sturm Graz,stu3
+13,148607,SP La Fiorita,laf1
+13,148609,SC Braga,scb1
+13,148611,Trabzonspor,tra1
+13,148617,Valletta FC,val5
+13,148621,Víkingur,vik3
+13,148623,Lille OSC,lil1
+13,148625,OGC Nice,ogc1
+13,148627,Stade Rennais FC 1901,ren1
+13,148629,FK Rostov,ros1
+13,148633,FK Spartak Moskva,spa3
+13,148637,FK Liepāja,lie1
+13,148639,IFK Norrköping FK,nor1
+13,148641,NK Olimpija Ljubljana,oli1
+13,148643,SP Tre Penne,tpe1
+13,148645,BK Häcken,bkh1
+13,148648,UMF Breiðablik,bre2
+13,148650,Urartu FA,ban1
+13,148652,SK Samtredia,sam1
+13,148654,FC Viitorul Constanţa,vii1
+13,148656,FK Sūduva Marijampolė,sud1
+13,148658,Connah's Quay Nomads FC,coq1
+13,148660,GKS Piast Gliwice,pia1
+13,148664,IFK Mariehamn,mar3
+13,148666,KF Teuta Durrës,dur1
+13,148673,KF Valur,val6
+13,148675,KRC Genk,gnk1
+13,148677,MH Maccabi Haifa,mha1
+13,148681,AEK,aek3
+13,148683,FK Sileks,sil1
+13,148685,SK Slavia Praha,slp1
+13,148687,FCI Tallinn,tali1
+13,148689,UE Santa Coloma,use1
+13,148691,Budapest Honvéd FC,hon1
+13,148695,FC Lugano,lug1
+13,148697,FC Prishtina,fcp1
+13,148699,SK Torpedo Kutaisi,tku1
+13,148703,FK Dynama-Brest,bre3
+13,148707,Floriana FC,flo3
+13,148709,KF Tirana,tir1
+13,148711,KÍ,ki1
+13,148713,Rangers FC,ran1
+13,148715,SK Brann,bra1
+13,148719,FC Drita,dgj1
+13,148721,FC CFR 1907 Cluj,clu1
+13,148723,FC Petrocub Hînceşti,pet1
+13,148727,Djurgårdens IF FF,dif3
+13,148731,FC Shkupi,shk3
+13,148733,Tobyl FK,tob1
+13,148735,Kuopion PS,kps1
+13,148741,LASK Linz,lin5
+13,148743,Rīga FC,rfc1
+13,148745,Tre Fiori FC,trf1
+13,148749,SK Iberia 1999,sab1
+13,148751,FC Feronikeli 74,fer1
+13,148753,FK Rīgas Futbola Skola,rfs1
+13,148755,Royal Antwerp FC,ant1
+13,148757,Ararat-Armenia FA,a-a1
+13,148759,Stade Brestois 29,sbr1
+13,148761,NŠ Mura,mur1
+13,148763,Racing Club de Lens,rcl1
+13,148767,Inter Club d'Escaldes,int3
+13,148769,Servette FC,ser1
+13,148771,FK Borac Banja Luka,bor1
+13,148773,FK Bodø/Glimt,bog1
+13,148775,Noah FA,noa1
+13,148777,FK TSC Bačka Topola,tsc1
+13,148785,Valmiera FC,val7
+13,148787,Ħamrun Spartans FC,ħam1
+13,148789,SK Dnipro-1,dni1
+13,148791,FC Ballkani,bal1
+13,148793,RU Saint-Gilloise,usg1
+13,148795,Áris Lemesoú,ari1
+13,148797,Atlétic Club d'Escaldes,esc1
+13,148799,FCV Farul Constanţa,far1
+13,148801,FC Struga Trim & Lum,stl1
+13,148803,FC Swift Hesper,hes1
+13,148805,Larne FC,lar1
+13,148807,RKS Raków Częstochowa,rak1
+13,148809,AC Virtus,vir1
+13,148811,FK Panevėžys,pan1
+13,148813,KF Egnatia Rrogozhinë,egn1
+13,148815,FK Dečić Tuzi,dec1
+13,148817,Páfos FC,paf1
+13,148821,Shelbourne FC,she3

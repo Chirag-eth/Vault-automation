@@ -1,0 +1,335 @@
+polymarket_team_id,polymarket_league_id,polymarket_league_slug,polymarket_team_name,polymarket_team_slug,polymarket_team_location,polymarket_logo_url
+100010,2,epl,AFC Bournemouth,Bournemouth,,https://polymarket-upload.s3.us-east-2.amazonaws.com/AFC Bournemouth-797c8a1861.png
+100005,2,epl,Arsenal FC,Arsenal,,https://polymarket-upload.s3.us-east-2.amazonaws.com/Arsenal FC-467770e716.png
+100009,2,epl,Aston Villa FC,Villa,,https://polymarket-upload.s3.us-east-2.amazonaws.com/Aston Villa FC-b0d023a983.png
+100008,2,epl,Brentford FC,Brentford,,https://polymarket-upload.s3.us-east-2.amazonaws.com/Brentford FC-2b19b40acc.png
+100015,2,epl,Brighton & Hove Albion FC,Brighton,,https://polymarket-upload.s3.us-east-2.amazonaws.com/Brighton & Hove Albion FC-525825565f.png
+114265,2,epl,Burnley FC,bur,,https://polymarket-upload.s3.us-east-2.amazonaws.com/Burnley FC-825bb85d0a.png
+100014,2,epl,Chelsea FC,Chelsea,,https://polymarket-upload.s3.us-east-2.amazonaws.com/Chelsea FC-5328e1544b.png
+100006,2,epl,Crystal Palace FC,Palace,,https://polymarket-upload.s3.us-east-2.amazonaws.com/Crystal Palace FC-9222b7873a.png
+100013,2,epl,Everton FC,Everton,,https://polymarket-upload.s3.us-east-2.amazonaws.com/Everton FC-0eb9203b56.png
+100011,2,epl,Fulham FC,Fulham,,https://polymarket-upload.s3.us-east-2.amazonaws.com/Fulham FC-4ea4c0343f.png
+100019,2,epl,Ipswich,Ipswich,,https://polymarket-upload.s3.us-east-2.amazonaws.com/Ipswich-09023bbcbc.png
+114264,2,epl,Leeds United FC,lee,,https://polymarket-upload.s3.us-east-2.amazonaws.com/Leeds United FC-e087627906.png
+100002,2,epl,Leicester,Leicester,,https://polymarket-upload.s3.us-east-2.amazonaws.com/Leicester-21db3601c2.png
+100017,2,epl,Liverpool FC,Liverpool,,https://polymarket-upload.s3.us-east-2.amazonaws.com/Liverpool FC-ae082e3941.png
+100004,2,epl,Manchester City FC,Man City,,https://polymarket-upload.s3.us-east-2.amazonaws.com/Manchester City FC-acb3183119.png
+100016,2,epl,Manchester United FC,Man Utd,,https://polymarket-upload.s3.us-east-2.amazonaws.com/Manchester United FC-510cb3c5a7.png
+100000,2,epl,Newcastle United FC,Newcastle,,https://polymarket-upload.s3.us-east-2.amazonaws.com/Newcastle United FC-ca553dc253.png
+100007,2,epl,Nottingham Forest FC,Forest,,https://polymarket-upload.s3.us-east-2.amazonaws.com/Nottingham Forest FC-a6e80f0f4c.png
+100012,2,epl,Southampton,Southampton,,https://polymarket-upload.s3.us-east-2.amazonaws.com/Southampton-8e025daae8.png
+114263,2,epl,Sunderland AFC,sun,,https://polymarket-upload.s3.us-east-2.amazonaws.com/sunderland.png
+100018,2,epl,Tottenham Hotspur FC,Spurs,,https://polymarket-upload.s3.us-east-2.amazonaws.com/Tottenham Hotspur FC-5260b21508.png
+100003,2,epl,West Ham United FC,West Ham,,https://polymarket-upload.s3.us-east-2.amazonaws.com/West Ham United FC-8e72c846b6.png
+100001,2,epl,Wolverhampton Wanderers FC,Wolves,,https://polymarket-upload.s3.us-east-2.amazonaws.com/Wolverhampton Wanderers FC-6b41709456.png
+101047,3,lal,Athletic Club,bil,,https://polymarket-upload.s3.us-east-2.amazonaws.com/lal_athletic_club.png
+101036,3,lal,CA Osasuna,osa,,https://polymarket-upload.s3.us-east-2.amazonaws.com/lal_osasuna.png
+101043,3,lal,Club Atlético de Madrid,mad,,https://polymarket-upload.s3.us-east-2.amazonaws.com/lal_atletico_madrid.png
+101029,3,lal,Deportivo Alavés,ala,,https://polymarket-upload.s3.us-east-2.amazonaws.com/lal_alaves.png
+114297,3,lal,Elche CF,elc,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/lal/elc.png
+101042,3,lal,FC Barcelona,bar,,https://polymarket-upload.s3.us-east-2.amazonaws.com/lal_barcelona.png
+101031,3,lal,Getafe CF,get,,https://polymarket-upload.s3.us-east-2.amazonaws.com/lal_getafe.png
+101035,3,lal,Girona FC,gir,,https://polymarket-upload.s3.us-east-2.amazonaws.com/lal_girona.png
+101032,3,lal,Las Palmas,pal,,https://polymarket-upload.s3.us-east-2.amazonaws.com/lal_las_palmas.png
+101039,3,lal,Leganes,leg,,https://polymarket-upload.s3.us-east-2.amazonaws.com/lal_leganes.png
+114298,3,lal,Levante UD,lev,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/lal/lev.png
+101046,3,lal,Rayo Vallecano de Madrid,ray,,https://polymarket-upload.s3.us-east-2.amazonaws.com/lal_rayo_vallecano.png
+101044,3,lal,RC Celta de Vigo,cel,,https://polymarket-upload.s3.us-east-2.amazonaws.com/lal_celta_vigo.png
+101033,3,lal,RCD Espanyol de Barcelona,esp,,https://polymarket-upload.s3.us-east-2.amazonaws.com/lal_espanyol.png
+101037,3,lal,RCD Mallorca,mal,,https://polymarket-upload.s3.us-east-2.amazonaws.com/lal_mallorca.png
+101030,3,lal,Real Betis Balompié,bet,,https://polymarket-upload.s3.us-east-2.amazonaws.com/lal_real_betis.png
+101034,3,lal,Real Madrid CF,rea,,https://polymarket-upload.s3.us-east-2.amazonaws.com/lal_real_madrid.png
+114296,3,lal,Real Oviedo,ovi,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/lal/ovi.png
+101045,3,lal,Real Sociedad de Fútbol,rso,,https://polymarket-upload.s3.us-east-2.amazonaws.com/lal_real_sociedad.png
+101040,3,lal,Sevilla FC,sev,,https://polymarket-upload.s3.us-east-2.amazonaws.com/lal_sevilla.png
+101095,3,lal,Valencia CF,val,,https://polymarket-upload.s3.us-east-2.amazonaws.com/lal_valencia.png
+101105,3,lal,Valladolid,vll,,https://polymarket-upload.s3.us-east-2.amazonaws.com/lal_valladolid.png
+101038,3,lal,Villarreal CF,vil,,https://polymarket-upload.s3.us-east-2.amazonaws.com/lal_villarreal.png
+101138,7,bun,1. FC Heidenheim 1846,hei,,https://polymarket-upload.s3.us-east-2.amazonaws.com/1. FC Heidenheim 1846-6c4700c06c.png
+114294,7,bun,1. FC Köln,koe,,https://polymarket-upload.s3.us-east-2.amazonaws.com/1. FC Köln-b252ab6e45.png
+101139,7,bun,1. FC Union Berlin,uni,,https://polymarket-upload.s3.us-east-2.amazonaws.com/bun_union_berlin.png
+101132,7,bun,1. FSV Mainz 05,mai,,https://polymarket-upload.s3.us-east-2.amazonaws.com/1. FSV Mainz 05-04a1c08390.png
+101255,7,bun,Bayer 04 Leverkusen,b04,,https://polymarket-upload.s3.us-east-2.amazonaws.com/Bayer 04 Leverkusen-871f491798.png
+101141,7,bun,Borussia Mönchengladbach,moe,,https://polymarket-upload.s3.us-east-2.amazonaws.com/Borussia Mönchengladbach-bd983cafa9.png
+101135,7,bun,BV Borussia 09 Dortmund,dor,,https://polymarket-upload.s3.us-east-2.amazonaws.com/BV Borussia 09 Dortmund-3bcb91dcd2.png
+101143,7,bun,Eintracht Frankfurt,ein,,https://polymarket-upload.s3.us-east-2.amazonaws.com/Eintracht Frankfurt-57943d9520.png
+101137,7,bun,FC Augsburg,aug,,https://polymarket-upload.s3.us-east-2.amazonaws.com/FC Augsburg-61ddcf2f55.png
+101129,7,bun,FC Bayern München,bay,,https://polymarket-upload.s3.us-east-2.amazonaws.com/FC Bayern München-3a164faeed.png
+101145,7,bun,FC St. Pauli 1910,pau,,https://polymarket-upload.s3.us-east-2.amazonaws.com/FC St. Pauli 1910-20fda2f29c.png
+114295,7,bun,Hamburger SV,hsv,,https://polymarket-upload.s3.us-east-2.amazonaws.com/Hamburger SV-41df712721.png
+101146,7,bun,Holstein Kiel,hol,,https://polymarket-upload.s3.us-east-2.amazonaws.com/Holstein Kiel-5e5239d840.png
+101134,7,bun,RB Leipzig,lei,,https://polymarket-upload.s3.us-east-2.amazonaws.com/RB Leipzig-94cd1eed82.png
+101130,7,bun,SC Freiburg,fre,,https://polymarket-upload.s3.us-east-2.amazonaws.com/SC Freiburg-c257d08d7c.png
+101140,7,bun,SV Werder Bremen,wer,,https://polymarket-upload.s3.us-east-2.amazonaws.com/SV Werder Bremen-4b27983d35.png
+101136,7,bun,TSG 1899 Hoffenheim,hof,,https://polymarket-upload.s3.us-east-2.amazonaws.com/TSG 1899 Hoffenheim-f508afb6c9.png
+101133,7,bun,VfB Stuttgart,stu,,https://polymarket-upload.s3.us-east-2.amazonaws.com/VfB Stuttgart-8d2fcbe834.png
+101144,7,bun,VfL Bochum,boc,,https://polymarket-upload.s3.us-east-2.amazonaws.com/VfL Bochum-9cd0b0955b.png
+101131,7,bun,VfL Wolfsburg,wol,,https://polymarket-upload.s3.us-east-2.amazonaws.com/VfL Wolfsburg-34be2431be.png
+101113,12,sea,AC Milan,mil,,https://polymarket-upload.s3.us-east-2.amazonaws.com/sea_ac_milan.png
+101110,12,sea,ACF Fiorentina,fio,,https://polymarket-upload.s3.us-east-2.amazonaws.com/sea_fiorentina.png
+101127,12,sea,AS Roma,rom,,https://polymarket-upload.s3.us-east-2.amazonaws.com/sea_as_roma.png
+101116,12,sea,Atalanta BC,ata,,https://polymarket-upload.s3.us-east-2.amazonaws.com/sea_atalanta.png
+101121,12,sea,Bologna FC 1909,bol,,https://polymarket-upload.s3.us-east-2.amazonaws.com/sea_bologna.png
+101126,12,sea,Cagliari Calcio,cag,,https://polymarket-upload.s3.us-east-2.amazonaws.com/sea_cagliari.png
+101119,12,sea,Como 1907,com,,https://polymarket-upload.s3.us-east-2.amazonaws.com/sea_como.png
+101128,12,sea,Empoli,emp,,https://polymarket-upload.s3.us-east-2.amazonaws.com/sea_empoli.png
+101111,12,sea,FC Internazionale Milano,int,,https://polymarket-upload.s3.us-east-2.amazonaws.com/sea_inter.png
+101120,12,sea,Genoa CFC,gen,,https://polymarket-upload.s3.us-east-2.amazonaws.com/sea_genoa.png
+101117,12,sea,Hellas Verona FC,ver,,https://polymarket-upload.s3.us-east-2.amazonaws.com/sea_verona.png
+101109,12,sea,Juventus FC,juv,,https://polymarket-upload.s3.us-east-2.amazonaws.com/sea_juventus.png
+101112,12,sea,Monza,mon,,https://polymarket-upload.s3.us-east-2.amazonaws.com/sea_monza.png
+101124,12,sea,Parma Calcio 1913,par,,https://polymarket-upload.s3.us-east-2.amazonaws.com/sea_parma.png
+114300,12,sea,Pisa SC,pis,,https://polymarket-upload.s3.us-east-2.amazonaws.com/pisa-sporting-club-79294b02ce.png
+101125,12,sea,SS Lazio,laz,,https://polymarket-upload.s3.us-east-2.amazonaws.com/sea_lazio.png
+101114,12,sea,SSC Napoli,nap,,https://polymarket-upload.s3.us-east-2.amazonaws.com/sea_napoli.png
+101122,12,sea,Torino FC,tor,,https://polymarket-upload.s3.us-east-2.amazonaws.com/sea_torino.png
+101115,12,sea,Udinese Calcio,udi,,https://polymarket-upload.s3.us-east-2.amazonaws.com/sea_udinese.png
+114299,12,sea,US Cremonese,cre,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/sea/cre.png
+101118,12,sea,US Lecce,lec,,https://polymarket-upload.s3.us-east-2.amazonaws.com/sea_lecce.png
+114301,12,sea,US Sassuolo Calcio,sas,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/sea/sas.png
+101123,12,sea,Venezia,ven,,https://polymarket-upload.s3.us-east-2.amazonaws.com/sea_venezia.png
+148747,13,ucl,1. FC Union Berlin,unb1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_unb_90001541.png
+148436,13,ucl,AC Milan,mil3,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_mil_90000662.png
+148266,13,ucl,AC Sparta Praha,spp1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_spp_90000546.png
+148809,13,ucl,AC Virtus,vir1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_vir_90002766.png
+148681,13,ucl,AEK,aek3,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_aek_90001037.png
+148454,13,ucl,AEK Lárnakas,aek2,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_aek_90000716.png
+148268,13,ucl,AFC Ajax,aja1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_aja_90000547.png
+148460,13,ucl,AFC Astra Giurgiu,ast5,,
+148462,13,ucl,AIK Fotboll,aik1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_aik_90000718.png
+148464,13,ucl,Alashkert FA,ala1,,
+148271,13,ucl,APÓEL,apo2,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_apo_90000548.png
+148468,13,ucl,Apóllon Lemesoú,apo3,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_apo_90000721.png
+148757,13,ucl,Ararat-Armenia FA,a-a1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_a-a_90001557.png
+148226,13,ucl,Arsenal FC,ars1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_ars_90000509.png
+148273,13,ucl,AS Monaco FC,asm1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_asm_90000549.png
+148470,13,ucl,AS Omónoia Leukosías,omo1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_omo_90000722.png
+148275,13,ucl,AS Roma,rom1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_rom_90000550.png
+148326,13,ucl,AS Trenčín,tre1,,
+148331,13,ucl,Astana FK,ast4,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_ast_90000574.png
+148230,13,ucl,Aston Villa FC,ast3,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_ast_90000510.png
+148438,13,ucl,Atalanta BC,ata1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_ata_90000664.png
+148428,13,ucl,Athletic Club,ath1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_ath_90000616.png
+148797,13,ucl,Atlétic Club d'Escaldes,esc1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_esc_90002671.png
+148447,13,ucl,AZ,az1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_az_90000679.png
+148277,13,ucl,B36,b361,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_b36_90000551.png
+148247,13,ucl,Bayer 04 Leverkusen,lev2,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_lev_90000530.png
+148472,13,ucl,Beşiktaş JK,bes1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_bes_90000728.png
+148645,13,ucl,BK Häcken,bkh1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_bkh_90001000.png
+148440,13,ucl,Bologna FC 1909,bol1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_bol_90000665.png
+148249,13,ucl,Borussia Mönchengladbach,bmg1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_bmg_90000531.png
+148474,13,ucl,Brøndby IF,bro1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_bro_90000730.png
+148279,13,ucl,BSC Young Boys,yob1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_yob_90000552.png
+148691,13,ucl,Budapest Honvéd FC,hon1,,
+148251,13,ucl,BV Borussia 09 Dortmund,bvb1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_bvb_90000532.png
+148282,13,ucl,Celtic FC,cel2,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_cel_90000553.png
+148232,13,ucl,Chelsea FC,cfc1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_cfc_90000511.png
+148284,13,ucl,Club Atlético de Madrid,atm1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_atm_90000554.png
+148286,13,ucl,Club Brugge KV,bru1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_bru_90000555.png
+148658,13,ucl,Connah's Quay Nomads FC,coq1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_coq_90001021.png
+148476,13,ucl,Cork City FC,coc1,,
+148288,13,ucl,Crusaders FC,cru1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_cru_90000556.png
+148291,13,ucl,CS Fola Esch,fol2,,
+148727,13,ucl,Djurgårdens IF FF,dif3,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_dif_90001470.png
+148293,13,ucl,Dundalk FC,dun1,,
+148253,13,ucl,Eintracht Frankfurt,fra1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_fra_90000533.png
+148478,13,ucl,Europa FC,eur1,,
+148480,13,ucl,F91 Diddeleng,f911,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_f91_90000735.png
+148791,13,ucl,FC Ballkani,bal1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_bal_90002585.png
+148295,13,ucl,FC Barcelona,fcb1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_fcb_90000559.png
+148297,13,ucl,FC Basel 1893,bas1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_bas_90000560.png
+148255,13,ucl,FC Bayern München,bay1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_bay_90000535.png
+148721,13,ucl,FC CFR 1907 Cluj,clu1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_clu_90001465.png
+148719,13,ucl,FC Drita,dgj1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_dgj_90001464.png
+148483,13,ucl,FC Déifferdeng 03,dif2,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_dif_90000737.png
+148751,13,ucl,FC Feronikeli 74,fer1,,
+148495,13,ucl,FC Flora,flo2,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_flo_90000740.png
+148443,13,ucl,FC Internazionale Milano,int2,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_int_90000668.png
+148497,13,ucl,FC København,kob1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_kob_90000742.png
+148695,13,ucl,FC Lugano,lug1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_lug_90001136.png
+148305,13,ucl,FC Midtjylland,mid1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_mid_90000563.png
+148308,13,ucl,FC Milsami Orhei,mil2,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_mil_90000564.png
+148723,13,ucl,FC Petrocub Hînceşti,pet1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_pet_90001469.png
+148310,13,ucl,FC Porto,por1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_por_90000565.png
+148697,13,ucl,FC Prishtina,fcp1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_fcp_90001137.png
+148314,13,ucl,FC Red Bull Salzburg,rbs1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_rbs_90000567.png
+148316,13,ucl,FC Santa Coloma,fsc1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_fsc_90000568.png
+148257,13,ucl,FC Schalke 04,s041,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_s04_90000537.png
+148500,13,ucl,FC Sheriff Tiraspol,she2,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_she_90000749.png
+148731,13,ucl,FC Shkupi,shk3,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_shk_90001476.png
+148502,13,ucl,FC Spartak Trnava,trn1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_trn_90000752.png
+148801,13,ucl,FC Struga Trim & Lum,stl1,,
+148803,13,ucl,FC Swift Hesper,hes1,,
+148449,13,ucl,FC Twente '65,twe1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_twe_90000681.png
+148654,13,ucl,FC Viitorul Constanţa,vii1,,
+148320,13,ucl,FC Viktoria Plzeň,plz1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_plz_90000570.png
+148504,13,ucl,FC Zürich,fcz1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_fcz_90000756.png
+148303,13,ucl,FCI Levadia,lev3,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_lev_90000562.png
+148687,13,ucl,FCI Tallinn,tali1,,
+148318,13,ucl,FCSB,ste1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_ste_90000569.png
+148799,13,ucl,FCV Farul Constanţa,far1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_far_90002672.png
+148426,13,ucl,Fehérvár FC,vid1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_vid_90000615.png
+148324,13,ucl,Fenerbahçe SK,fen1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_fen_90000572.png
+148506,13,ucl,Ferencvárosi TC,ftc1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_ftc_90000757.png
+148451,13,ucl,Feyenoord Rotterdam,fey1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_fey_90000683.png
+148508,13,ucl,FH Hafnarfjörður,fhh1,,
+148334,13,ucl,FK BATE Barysaŭ,bat2,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_bat_90000575.png
+148773,13,ucl,FK Bodø/Glimt,bog1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_bog_90002377.png
+148771,13,ucl,FK Borac Banja Luka,bor1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_bor_90002376.png
+148510,13,ucl,FK Budućnost Podgorica,bud1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_bud_90000761.png
+148512,13,ucl,FK Crvena zvezda,crv1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_crv_90000762.png
+148815,13,ucl,FK Dečić Tuzi,dec1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_dec_90004105.png
+148703,13,ucl,FK Dynama-Brest,bre3,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_bre_90001140.png
+148518,13,ucl,FK Dynama-Minsk,din5,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_din_90000764.png
+148336,13,ucl,FK Dynamo Kyiv,dyn1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_dyn_90000576.png
+148522,13,ucl,FK Krasnodar,kra1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_kra_90000769.png
+148524,13,ucl,FK Kukësi,kuk1,,
+148637,13,ucl,FK Liepāja,lie1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_lie_90000984.png
+148527,13,ucl,FK Lokomotiv Moskva,lok2,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_lok_90000772.png
+148811,13,ucl,FK Panevėžys,pan1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_pan_90002776.png
+148339,13,ucl,FK Partizan Beograd,par2,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_par_90000577.png
+148535,13,ucl,FK Partizani,par3,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_par_90000777.png
+148629,13,ucl,FK Rostov,ros1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_ros_90000913.png
+148341,13,ucl,FK Rudar Pljevlja,rud1,,
+148753,13,ucl,FK Rīgas Futbola Skola,rfs1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_rfs_90001550.png
+148343,13,ucl,FK Sarajevo,sar1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_sar_90000579.png
+148345,13,ucl,FK Shakhtar Donetsk,shd1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_shd_90000580.png
+148683,13,ucl,FK Sileks,sil1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_sil_90001044.png
+148633,13,ucl,FK Spartak Moskva,spa3,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_spa_90000914.png
+148540,13,ucl,FK Spartaks Jūrmala,spa2,,
+148542,13,ucl,FK Sutjeska Nikšić,sut1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_sut_90000782.png
+148656,13,ucl,FK Sūduva Marijampolė,sud1,,
+148777,13,ucl,FK TSC Bačka Topola,tsc1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_tsc_90002392.png
+148347,13,ucl,FK Vardar Skopje,var1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_var_90000581.png
+148349,13,ucl,FK Ventspils,ven1,,
+148351,13,ucl,FK Zenit,zen1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_zen_90000583.png
+148537,13,ucl,FK Šachcior Salihorsk,sol1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_sol_90000780.png
+148322,13,ucl,FK Žalgiris Vilnius,zal1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_zal_90000571.png
+148707,13,ucl,Floriana FC,flo3,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_flo_90001147.png
+148353,13,ucl,Galatasaray SK,gal1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_gal_90000584.png
+148717,13,ucl,Girona FC,gir1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_gir_90001169.png
+148660,13,ucl,GKS Piast Gliwice,pia1,,
+148357,13,ucl,GNK Dinamo Zagreb,din3,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_din_90000585.png
+148546,13,ucl,HB,hb1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_hb_90000794.png
+148361,13,ucl,Helsingin JK,hjk1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_hjk_90000587.png
+148359,13,ucl,Hibernians FC,hib1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_hib_90000586.png
+148548,13,ucl,HNK Rijeka,rij1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_rij_90000796.png
+148550,13,ucl,HŠK Zrinjski Mostar,zri1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_zri_90000797.png
+148664,13,ucl,IFK Mariehamn,mar3,,
+148639,13,ucl,IFK Norrköping FK,nor1,,
+148767,13,ucl,Inter Club d'Escaldes,int3,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_int_90002372.png
+148554,13,ucl,Jagiellonia Białystok,jag1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_jag_90000803.png
+148363,13,ucl,Juventus FC,juv1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_juv_90000588.png
+148365,13,ucl,KAA Gent,gen1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_gen_90000589.png
+148813,13,ucl,KF Egnatia Rrogozhinë,egn1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_egn_90002782.png
+148557,13,ucl,KF Shkëndija 79,shk2,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_shk_90000807.png
+148367,13,ucl,KF Skënderbeu Korçë,ske1,,
+148666,13,ucl,KF Teuta Durrës,dur1,,
+148709,13,ucl,KF Tirana,tir1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_tir_90001149.png
+148673,13,ucl,KF Valur,val6,,
+148560,13,ucl,KF Víkingur,vik2,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_vik_90000808.png
+148369,13,ucl,KKS Lech Poznań,lep1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_lep_90000591.png
+148562,13,ucl,KR Reykjavík,krr1,,
+148675,13,ucl,KRC Genk,gnk1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_gnk_90001029.png
+148735,13,ucl,Kuopion PS,kps1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_kps_90001487.png
+148711,13,ucl,KÍ,ki1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_kí_90001150.png
+148805,13,ucl,Larne FC,lar1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_lar_90002675.png
+148741,13,ucl,LASK Linz,lin5,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_lin_90001488.png
+148564,13,ucl,Legia Warszawa,leg1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_leg_90000810.png
+148234,13,ucl,Leicester City FC,lei1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_lei_90000514.png
+148623,13,ucl,Lille OSC,lil1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_lil_90000899.png
+148373,13,ucl,Lincoln Red Imps FC,lin3,,
+148569,13,ucl,Linfield FC,lin4,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_lin_90000811.png
+148236,13,ucl,Liverpool FC,liv1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_liv_90000515.png
+148377,13,ucl,Malmö FF,mal1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_mal_90000594.png
+148238,13,ucl,Manchester City FC,mnc1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_mnc_90000516.png
+148240,13,ucl,Manchester United FC,mnu1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_mnu_90000517.png
+148544,13,ucl,MH Hapoel Be'er Sheva,hbs1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_hbs_90000792.png
+148677,13,ucl,MH Maccabi Haifa,mha1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_mha_90001031.png
+148375,13,ucl,MH Maccabi Tel Aviv,mta1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_mta_90000593.png
+148379,13,ucl,Molde FK,mol1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_mol_90000595.png
+148571,13,ucl,MŠK Žilina,zil1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_zil_90000812.png
+148573,13,ucl,Neftçi PFK,nef1,,
+148242,13,ucl,Newcastle United FC,new1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_new_90000518.png
+148577,13,ucl,NK Celje,cel3,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_cel_90000816.png
+148581,13,ucl,NK Lokomotiva Zagreb,lok3,,
+148382,13,ucl,NK Maribor,mar2,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_mar_90000596.png
+148641,13,ucl,NK Olimpija Ljubljana,oli1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_oli_90000986.png
+148775,13,ucl,Noah FA,noa1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_noa_90002385.png
+148583,13,ucl,Nõmme Kalju FC,nom1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_nom_90000819.png
+148761,13,ucl,NŠ Mura,mur1,,
+148529,13,ucl,OFK Titograd,mla1,,
+148625,13,ucl,OGC Nice,ogc1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_ogc_90000901.png
+148386,13,ucl,Olympiakós SFP,oly1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_oly_90000598.png
+148585,13,ucl,Olympique de Marseille,olm1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_olm_90000822.png
+148384,13,ucl,Olympique Lyonnais,lyo1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_lyo_90000597.png
+148531,13,ucl,Ordabasy FK,ord1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_ord_90000776.png
+148389,13,ucl,Panathinaikós AO,pao2,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_pao_90000599.png
+148589,13,ucl,PAOK,pao3,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_pao_90000825.png
+148391,13,ucl,Paris Saint-Germain FC,psg1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_psg_90000600.png
+148393,13,ucl,PFK CSKA Moskva,csk1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_csk_90000601.png
+148395,13,ucl,PFK Ludogorets 1945 Razgrad,lud1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_lud_90000602.png
+148397,13,ucl,PSV,psv1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_psv_90000603.png
+148312,13,ucl,Pyunik FA,pyu1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_pyu_90000566.png
+148817,13,ucl,Páfos FC,paf1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_paf_90004110.png
+148520,13,ucl,Qairat FK,kai1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_kai_90000768.png
+148399,13,ucl,Qarabağ Ağdam FK,qar1,,
+148763,13,ucl,Racing Club de Lens,rcl1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_rcl_90002368.png
+148552,13,ucl,Rams Başakşehir FK,iba1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_iba_90000802.png
+148713,13,ucl,Rangers FC,ran1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_ran_90001159.png
+148635,13,ucl,RB Leipzig,rbl1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_rbl_90000964.png
+148401,13,ucl,Real Madrid CF,rma1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_rma_90000605.png
+148430,13,ucl,Real Sociedad de Fútbol,rso1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_rso_90000626.png
+148807,13,ucl,RKS Raków Częstochowa,rak1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_rak_90002676.png
+148591,13,ucl,Rosenborg BK,rbk1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_rbk_90000831.png
+148755,13,ucl,Royal Antwerp FC,ant1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_ant_90001554.png
+148593,13,ucl,Royal Standard de Liège,sta1,,
+148595,13,ucl,RSC Anderlecht,and1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_and_90000833.png
+148793,13,ucl,RU Saint-Gilloise,usg1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_usg_90002586.png
+148743,13,ucl,Rīga FC,rfc1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_rfc_90001493.png
+148609,13,ucl,SC Braga,scb1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_scb_90000843.png
+148597,13,ucl,Seinäjoen JK,sjk1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_sjk_90000836.png
+148769,13,ucl,Servette FC,ser1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_ser_90002374.png
+148403,13,ucl,Sevilla FC,sev1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_sev_90000606.png
+148599,13,ucl,Shamrock Rovers FC,shr1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_shr_90000837.png
+148821,13,ucl,Shelbourne FC,she3,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_she_90004126.png
+148715,13,ucl,SK Brann,bra1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_bra_90001160.png
+148299,13,ucl,SK Dila Gori,dil1,,
+148487,13,ucl,SK Dinamo Batumi,bat3,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_bat_90000738.png
+148492,13,ucl,SK Dinamo Tbilisi,din4,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_din_90000739.png
+148789,13,ucl,SK Dnipro-1,dni1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_dni_90002563.png
+148749,13,ucl,SK Iberia 1999,sab1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_sab_90001544.png
+148605,13,ucl,SK Puntigamer Sturm Graz,stu3,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_stu_90000840.png
+148405,13,ucl,SK Rapid Wien,rap1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_rap_90000607.png
+148652,13,ucl,SK Samtredia,sam1,,
+148685,13,ucl,SK Slavia Praha,slp1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_slp_90001045.png
+148699,13,ucl,SK Torpedo Kutaisi,tku1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_tku_90001138.png
+148607,13,ucl,SP La Fiorita,laf1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_laf_90000842.png
+148643,13,ucl,SP Tre Penne,tpe1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_tpe_90000987.png
+148407,13,ucl,Sport Lisboa e Benfica,ben1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_ben_90000608.png
+148409,13,ucl,Sporting CP,spo1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_spo_90000609.png
+148413,13,ucl,SS Folgore/Falciano,fol3,,
+148415,13,ucl,SS Lazio,laz1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_laz_90000611.png
+148445,13,ucl,SSC Napoli,nap1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_nap_90000672.png
+148759,13,ucl,Stade Brestois 29,sbr1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_sbr_90001558.png
+148627,13,ucl,Stade Rennais FC 1901,ren1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_ren_90000905.png
+148417,13,ucl,The New Saints FC,tns1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_tns_90000612.png
+148733,13,ucl,Tobyl FK,tob1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_tob_90001479.png
+148244,13,ucl,Tottenham Hotspur FC,tot1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_tot_90000524.png
+148611,13,ucl,Trabzonspor,tra1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_tra_90000847.png
+148745,13,ucl,Tre Fiori FC,trf1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_trf_90001496.png
+148259,13,ucl,TSG 1899 Hoffenheim,hof1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_hof_90000543.png
+148689,13,ucl,UE Santa Coloma,use1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_use_90001051.png
+148648,13,ucl,UMF Breiðablik,bre2,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_bre_90001001.png
+148419,13,ucl,UMF Stjarnan,stj1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_stj_90000613.png
+148650,13,ucl,Urartu FA,ban1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_ban_90001007.png
+148424,13,ucl,Valencia CF,val4,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_val_90000614.png
+148617,13,ucl,Valletta FC,val5,,
+148785,13,ucl,Valmiera FC,val7,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_val_90002393.png
+148262,13,ucl,VfB Stuttgart,stu2,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_stu_90000544.png
+148264,13,ucl,VfL Wolfsburg,wob1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_wob_90000545.png
+148432,13,ucl,Villarreal CF,vil1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_vil_90000630.png
+148621,13,ucl,Víkingur,vik3,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_vik_90000853.png
+148795,13,ucl,Áris Lemesoú,ari1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_ari_90002670.png
+148787,13,ucl,Ħamrun Spartans FC,ħam1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_ħam_90002524.png
+148601,13,ucl,ŠK Slovan Bratislava,sba1,,https://polymarket-upload.s3.us-east-2.amazonaws.com/team_logos/soccer/ucl/ucl_sba_90000839.png

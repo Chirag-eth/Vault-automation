@@ -1,0 +1,36 @@
+league_id,team_id,name,alternate_name,domestic_league_id,domestic_team_id,domestic_team_name
+13,148226,Arsenal FC,ars1,2,100005,Arsenal FC
+13,148230,Aston Villa FC,ast3,2,100009,Aston Villa FC
+13,148232,Chelsea FC,cfc1,2,100014,Chelsea FC
+13,148236,Liverpool FC,liv1,2,100017,Liverpool FC
+13,148238,Manchester City FC,mnc1,2,100004,Manchester City FC
+13,148240,Manchester United FC,mnu1,2,100016,Manchester United FC
+13,148242,Newcastle United FC,new1,2,100000,Newcastle United FC
+13,148244,Tottenham Hotspur FC,tot1,2,100018,Tottenham Hotspur FC
+13,148247,Bayer 04 Leverkusen,lev2,7,101255,Bayer 04 Leverkusen
+13,148249,Borussia Mönchengladbach,bmg1,7,101141,Borussia Mönchengladbach
+13,148251,BV Borussia 09 Dortmund,bvb1,7,101135,BV Borussia 09 Dortmund
+13,148253,Eintracht Frankfurt,fra1,7,101143,Eintracht Frankfurt
+13,148255,FC Bayern München,bay1,7,101129,FC Bayern München
+13,148259,TSG 1899 Hoffenheim,hof1,7,101136,TSG 1899 Hoffenheim
+13,148262,VfB Stuttgart,stu2,7,101133,VfB Stuttgart
+13,148264,VfL Wolfsburg,wob1,7,101131,VfL Wolfsburg
+13,148275,AS Roma,rom1,12,101127,AS Roma
+13,148284,Club Atlético de Madrid,atm1,3,101043,Club Atlético de Madrid
+13,148295,FC Barcelona,fcb1,3,101042,FC Barcelona
+13,148363,Juventus FC,juv1,12,101109,Juventus FC
+13,148401,Real Madrid CF,rma1,3,101034,Real Madrid CF
+13,148403,Sevilla FC,sev1,3,101040,Sevilla FC
+13,148415,SS Lazio,laz1,12,101125,SS Lazio
+13,148424,Valencia CF,val4,3,101095,Valencia CF
+13,148428,Athletic Club,ath1,3,101047,Athletic Club
+13,148430,Real Sociedad de Fútbol,rso1,3,101045,Real Sociedad de Fútbol
+13,148432,Villarreal CF,vil1,3,101038,Villarreal CF
+13,148436,AC Milan,mil3,12,101113,AC Milan
+13,148438,Atalanta BC,ata1,12,101116,Atalanta BC
+13,148440,Bologna FC 1909,bol1,12,101121,Bologna FC 1909
+13,148443,FC Internazionale Milano,int2,12,101111,FC Internazionale Milano
+13,148445,SSC Napoli,nap1,12,101114,SSC Napoli
+13,148635,RB Leipzig,rbl1,7,101134,RB Leipzig
+13,148717,Girona FC,gir1,3,101035,Girona FC
+13,148747,1. FC Union Berlin,unb1,7,101139,1. FC Union Berlin

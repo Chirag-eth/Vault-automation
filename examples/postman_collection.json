@@ -1,0 +1,46 @@
+{
+  "info": {
+    "name": "Pred x Polymarket Local Matcher",
+    "_postman_id": "0c69c427-0a6f-4f03-9a2f-5849b6a6727a",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Health",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:8080/health",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "8080",
+          "path": ["health"]
+        }
+      }
+    },
+    {
+      "name": "Match Market",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"market_name\": \"OSA_ALA_vs_OSA_LALIGA_2026\",\n  \"market\": {\n    \"question\": \"OSA_ALA_vs_OSA_LALIGA_2026\",\n    \"status\": \"active\",\n    \"outcomes\": {\n      \"YES\": {\"token_id\": \"24445177394497171217296270268682765133900113395090200545803449303387976380896\"},\n      \"NO\": {\"token_id\": \"78717565733104511934606333719266623550542105010193488920912649518794458610896\"}\n    },\n    \"pred_mapping\": {\n      \"market_id\": \"0xe589848def3b1d53cf14cb48cf0dcd57d23f3acae0298da58d54eecf81612c02\"\n    }\n  }\n}"
+        },
+        "url": {
+          "raw": "http://localhost:8080/match",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "8080",
+          "path": ["match"]
+        }
+      }
+    }
+  ]
+}

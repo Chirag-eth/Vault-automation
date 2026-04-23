@@ -1,0 +1,6 @@
+cms_league_id,cms_league_name,polymarket_sport_slug,polymarket_sport_id,polymarket_league_slug,polymarket_league_name,status,notes
+de1bd252-baf5-4417-89ba-77d635f5f8f0,EPL,soccer,100350,epl,Premier League,mapped,
+30c19a6e-da71-4fef-942c-f7cf01fd42e4,LaLiga,soccer,100350,lal,LaLiga,mapped,
+b0828767-10ab-4288-b18d-a6f2f481b2e8,Bundesliga,soccer,100350,bun,Bundesliga,mapped,
+aa0b0d9c-804b-422c-a9c5-8ad8ae737e33,Serie A,soccer,100350,sea,Serie A,mapped,
+cc0d8029-3294-417f-b04f-bdc4d7fb8675,UCL,soccer,100350,ucl,UEFA Champions League,mapped,

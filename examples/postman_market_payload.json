@@ -1,0 +1,18 @@
+{
+  "market_name": "OSA_ALA_vs_OSA_LALIGA_2026",
+  "market": {
+    "question": "OSA_ALA_vs_OSA_LALIGA_2026",
+    "status": "active",
+    "outcomes": {
+      "YES": {
+        "token_id": "24445177394497171217296270268682765133900113395090200545803449303387976380896"
+      },
+      "NO": {
+        "token_id": "78717565733104511934606333719266623550542105010193488920912649518794458610896"
+      }
+    },
+    "pred_mapping": {
+      "market_id": "0xe589848def3b1d53cf14cb48cf0dcd57d23f3acae0298da58d54eecf81612c02"
+    }
+  }
+}

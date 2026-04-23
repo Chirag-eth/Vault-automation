@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Pred x Polymarket Dashboard</title>
+    <link rel="stylesheet" href="/assets/dashboard.css" />
+  </head>
+  <body>
+    <div class="background-orb orb-a"></div>
+    <div class="background-orb orb-b"></div>
+    <main class="app-shell">
+      <header class="hero card reveal">
+        <div class="hero-copy">
+          <p class="eyebrow">Pred x Polymarket</p>
+          <h1>Match markets and monitor the live sync from one clean control room.</h1>
+          <p class="hero-text">
+            Run manual matches, inspect review queues, and keep an eye on the latest
+            orderbook state without bouncing between Postman, CSVs, and terminal windows.
+          </p>
+        </div>
+        <div class="hero-actions">
+          <button id="refresh-button" class="button button-primary" type="button">
+            Refresh State
+          </button>
+          <div class="pulse-row">
+            <span class="pulse-dot"></span>
+            <span id="refresh-label">Auto refresh every 10s</span>
+          </div>
+        </div>
+      </header>
+
+      <section class="metrics-grid reveal">
+        <article class="metric card">
+          <p class="metric-label">Mappings</p>
+          <p id="metric-mappings" class="metric-value">0</p>
+        </article>
+        <article class="metric card">
+          <p class="metric-label">Review Queue</p>
+          <p id="metric-reviews" class="metric-value">0</p>
+        </article>
+        <article class="metric card">
+          <p class="metric-label">Live Orderbooks</p>
+          <p id="metric-orderbooks" class="metric-value">0</p>
+        </article>
+      </section>
+
+      <section class="workspace-grid">
+        <article class="card composer reveal">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">Manual Match</p>
+              <h2>Paste a market payload</h2>
+            </div>
+            <button id="sample-button" class="button button-secondary" type="button">
+              Load Sample
+            </button>
+          </div>
+          <textarea
+            id="payload-input"
+            spellcheck="false"
+            aria-label="Payload JSON"
+          ></textarea>
+          <div class="composer-actions">
+            <button id="match-button" class="button button-primary" type="button">
+              Match Market
+            </button>
+            <p class="hint">
+              The response is returned in your compact production storage shape.
+            </p>
+          </div>
+        </article>
+
+        <article class="card response-panel reveal">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">Match Response</p>
+              <h2>Compact output</h2>
+            </div>
+            <button id="copy-response-button" class="button button-ghost" type="button">
+              Copy JSON
+            </button>
+          </div>
+          <pre id="response-output" class="code-panel">Waiting for a match response...</pre>
+        </article>
+      </section>
+
+      <section class="data-grid">
+        <article class="card data-panel reveal">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">Mappings</p>
+              <h2>Latest successful matches</h2>
+            </div>
+          </div>
+          <div id="mappings-list" class="stack-list"></div>
+        </article>
+
+        <article class="card data-panel reveal">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">Review Queue</p>
+              <h2>Needs attention</h2>
+            </div>
+          </div>
+          <div id="reviews-list" class="stack-list"></div>
+        </article>
+
+        <article class="card data-panel reveal">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">Orderbooks</p>
+              <h2>Latest market depth summary</h2>
+            </div>
+          </div>
+          <div id="orderbooks-list" class="stack-list"></div>
+        </article>
+      </section>
+    </main>
+
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+    <script src="/assets/dashboard.js"></script>
+  </body>
+</html>

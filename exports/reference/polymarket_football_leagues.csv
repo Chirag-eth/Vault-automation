@@ -1,0 +1,46 @@
+league_id,name,alternate_name,sport,association
+2,Premier League,epl,soccer,premierleague.com
+3,LaLiga,lal,soccer,laliga.com
+95,ACN,acn,soccer,cafonline.com
+7,Bundesliga,bun,soccer,bundesliga.com
+11,Ligue 1,fl1,soccer,ligue1.com
+12,Serie A,sea,soccer,legaseriea.it
+13,UEFA Champions League,ucl,soccer,uefa.com
+15,AFC,afc,soccer,the-afc.com
+16,OFC,ofc,soccer,oceaniafootball.com
+17,FIF,fif,soccer,fifa.com
+18,ERE,ere,soccer,eredivisie.eu
+19,ARG,arg,soccer,afa.com.ar
+20,ITC,itc,soccer,legaseriea.it
+21,MEX,mex,soccer,ligamx.net
+23,LIB,lib,soccer,conmebollibertadores.com
+24,SUD,sud,soccer,conmebolsudamericana.com
+25,TUR,tur,soccer,tff.org
+26,CON,con,soccer,conmebol.com
+27,COF,cof,,concacaf.com
+28,UEF,uef,soccer,uefa.com
+29,CAF,caf,soccer,cafonline.com
+30,RUS,rus,,premierliga.ru
+31,EFA,efa,soccer,thefa.com
+32,EFL,efl,soccer,efl.com
+36,UEL,uel,soccer,uefa.com
+33,MLS,mls,,mls.com
+49,CDR,cdr,soccer,laliga.com
+61,COL,col,soccer,uefa.com
+65,JAP,jap,soccer,jleague.jp
+66,JA2,ja2,soccer,jleague.jp
+67,KOR,kor,soccer,kleague.com
+74,POR,por,soccer,ligaportugal.pt
+99,SSC,ssc,soccer,laliga.com
+120,MAR1,mar1,soccer,laliga.com
+121,EGY1,egy1,soccer,laliga.com
+122,CZE1,cze1,soccer,laliga.com
+123,BOL1,bol1,soccer,laliga.com
+124,ROU1,rou1,soccer,laliga.com
+125,BRA2,bra2,soccer,laliga.com
+126,PER1,per1,soccer,laliga.com
+149,UWCL,uwcl,soccer,uefa.com
+157,J2-100,j2-100,soccer,jleague.jp
+127,COL1,col1,soccer,laliga.com
+158,J1-100,j1-100,soccer,jleague.jp
+128,CHI1,chi1,soccer,laliga.com

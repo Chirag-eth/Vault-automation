@@ -1,0 +1,791 @@
+{
+  "leagues": [
+    {
+      "cms_league_id": "de1bd252-baf5-4417-89ba-77d635f5f8f0",
+      "cms_league_name": "EPL",
+      "polymarket_sport_slug": "soccer",
+      "polymarket_sport_id": "100350",
+      "polymarket_league_slug": "epl",
+      "polymarket_league_name": "Premier League",
+      "notes": ""
+    },
+    {
+      "cms_league_id": "30c19a6e-da71-4fef-942c-f7cf01fd42e4",
+      "cms_league_name": "LaLiga",
+      "polymarket_sport_slug": "soccer",
+      "polymarket_sport_id": "100350",
+      "polymarket_league_slug": "lal",
+      "polymarket_league_name": "LaLiga",
+      "notes": ""
+    },
+    {
+      "cms_league_id": "b0828767-10ab-4288-b18d-a6f2f481b2e8",
+      "cms_league_name": "Bundesliga",
+      "polymarket_sport_slug": "soccer",
+      "polymarket_sport_id": "100350",
+      "polymarket_league_slug": "bun",
+      "polymarket_league_name": "Bundesliga",
+      "notes": ""
+    },
+    {
+      "cms_league_id": "aa0b0d9c-804b-422c-a9c5-8ad8ae737e33",
+      "cms_league_name": "Serie A",
+      "polymarket_sport_slug": "soccer",
+      "polymarket_sport_id": "100350",
+      "polymarket_league_slug": "sea",
+      "polymarket_league_name": "Serie A",
+      "notes": ""
+    },
+    {
+      "cms_league_id": "cc0d8029-3294-417f-b04f-bdc4d7fb8675",
+      "cms_league_name": "UCL",
+      "polymarket_sport_slug": "soccer",
+      "polymarket_sport_id": "100350",
+      "polymarket_league_slug": "ucl",
+      "polymarket_league_name": "UEFA Champions League",
+      "notes": ""
+    }
+  ],
+  "teams": [
+    {
+      "cms_team_id": "fda8d81f-dbdb-4381-bc24-657d56ac7bf6",
+      "cms_league_id": "aa0b0d9c-804b-422c-a9c5-8ad8ae737e33",
+      "cms_team_name": "US Cremonese",
+      "polymarket_team_id": "114299",
+      "polymarket_league_id": "12",
+      "polymarket_team_name": "US Cremonese",
+      "polymarket_team_slug": "cre",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "2aa91cf0-6c5b-45c8-8ada-1f1bb7fc1bde",
+      "cms_league_id": "aa0b0d9c-804b-422c-a9c5-8ad8ae737e33",
+      "cms_team_name": "Torino FC",
+      "polymarket_team_id": "101122",
+      "polymarket_league_id": "12",
+      "polymarket_team_name": "Torino FC",
+      "polymarket_team_slug": "tor",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "fded2d30-628d-4433-8365-b56c82da0a2c",
+      "cms_league_id": "b0828767-10ab-4288-b18d-a6f2f481b2e8",
+      "cms_team_name": "Borussia M\u00f6nchengladbach",
+      "polymarket_team_id": "101141",
+      "polymarket_league_id": "7",
+      "polymarket_team_name": "Borussia M\u00f6nchengladbach",
+      "polymarket_team_slug": "moe",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "8457172f-857e-4963-a3b4-548e0773e55e",
+      "cms_league_id": "b0828767-10ab-4288-b18d-a6f2f481b2e8",
+      "cms_team_name": "1. FSV Mainz 05",
+      "polymarket_team_id": "101132",
+      "polymarket_league_id": "7",
+      "polymarket_team_name": "1. FSV Mainz 05",
+      "polymarket_team_slug": "mai",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "d3b666be-e2c2-44e9-96fa-6ad167cb9541",
+      "cms_league_id": "de1bd252-baf5-4417-89ba-77d635f5f8f0",
+      "cms_team_name": "Brentford FC",
+      "polymarket_team_id": "100008",
+      "polymarket_league_id": "2",
+      "polymarket_team_name": "Brentford FC",
+      "polymarket_team_slug": "bre",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "757e6e74-9cd6-47df-9fb0-5ed8514426df",
+      "cms_league_id": "de1bd252-baf5-4417-89ba-77d635f5f8f0",
+      "cms_team_name": "Manchester United FC",
+      "polymarket_team_id": "100016",
+      "polymarket_league_id": "2",
+      "polymarket_team_name": "Manchester United FC",
+      "polymarket_team_slug": "mun",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "c3e35aff-5e30-4a48-9492-9dd916849ec2",
+      "cms_league_id": "aa0b0d9c-804b-422c-a9c5-8ad8ae737e33",
+      "cms_team_name": "Cagliari Calcio",
+      "polymarket_team_id": "101126",
+      "polymarket_league_id": "12",
+      "polymarket_team_name": "Cagliari Calcio",
+      "polymarket_team_slug": "cag",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "213c6579-6c4f-4cd2-baa6-93beca376b81",
+      "cms_league_id": "aa0b0d9c-804b-422c-a9c5-8ad8ae737e33",
+      "cms_team_name": "FC Internazionale Milano",
+      "polymarket_team_id": "101111",
+      "polymarket_league_id": "12",
+      "polymarket_team_name": "FC Internazionale Milano",
+      "polymarket_team_slug": "int",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "92b7bd47-4555-49a6-9709-5f1af674f15d",
+      "cms_league_id": "",
+      "cms_team_name": "Udinese Calcio",
+      "polymarket_team_id": "101115",
+      "polymarket_league_id": "12",
+      "polymarket_team_name": "Udinese Calcio",
+      "polymarket_team_slug": "udi",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "49a4b975-5f2d-416a-a427-d3252c991fc0",
+      "cms_league_id": "",
+      "cms_team_name": "Parma Calcio 1913",
+      "polymarket_team_id": "101124",
+      "polymarket_league_id": "12",
+      "polymarket_team_name": "Parma Calcio 1913",
+      "polymarket_team_slug": "par",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "3851f805-d788-4a8e-9da9-a13ad0558ab6",
+      "cms_league_id": "",
+      "cms_team_name": "SSC Napoli",
+      "polymarket_team_id": "101114",
+      "polymarket_league_id": "12",
+      "polymarket_team_name": "SSC Napoli",
+      "polymarket_team_slug": "nap",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "82befe3b-702b-4912-9268-d4bc4b10e069",
+      "cms_league_id": "",
+      "cms_team_name": "SS Lazio",
+      "polymarket_team_id": "101125",
+      "polymarket_league_id": "12",
+      "polymarket_team_name": "SS Lazio",
+      "polymarket_team_slug": "laz",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "95597bb0-fd9c-400a-8120-f531df71b66c",
+      "cms_league_id": "",
+      "cms_team_name": "Bayer 04 Leverkusen",
+      "polymarket_team_id": "101255",
+      "polymarket_league_id": "7",
+      "polymarket_team_name": "Bayer 04 Leverkusen",
+      "polymarket_team_slug": "lev",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "d3f66614-dbca-4a33-81f9-b928f525656f",
+      "cms_league_id": "",
+      "cms_team_name": "FC Augsburg",
+      "polymarket_team_id": "101137",
+      "polymarket_league_id": "7",
+      "polymarket_team_name": "FC Augsburg",
+      "polymarket_team_slug": "aug",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "0e869247-c975-4722-bc04-b21f082e7d45",
+      "cms_league_id": "",
+      "cms_team_name": "TSG 1899 Hoffenheim",
+      "polymarket_team_id": "101136",
+      "polymarket_league_id": "7",
+      "polymarket_team_name": "TSG 1899 Hoffenheim",
+      "polymarket_team_slug": "hof",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "d201abb8-f1ce-4e63-8d20-0e0022a1a836",
+      "cms_league_id": "",
+      "cms_team_name": "BV Borussia 09 Dortmund",
+      "polymarket_team_id": "101135",
+      "polymarket_league_id": "7",
+      "polymarket_team_name": "BV Borussia 09 Dortmund",
+      "polymarket_team_slug": "dor",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "7ad216d4-475e-4b21-9da9-07bab6487577",
+      "cms_league_id": "",
+      "cms_team_name": "Paris Saint-Germain FC",
+      "polymarket_team_id": "148391",
+      "polymarket_league_id": "13",
+      "polymarket_team_name": "Paris Saint-Germain FC",
+      "polymarket_team_slug": "psg",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "4b85901c-588a-47af-8b41-0f6e86759b06",
+      "cms_league_id": "",
+      "cms_team_name": "FC Bayern M\u00fcnchen",
+      "polymarket_team_id": "148255",
+      "polymarket_league_id": "13",
+      "polymarket_team_name": "FC Bayern M\u00fcnchen",
+      "polymarket_team_slug": "bay",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "014f6af1-4aa7-47cf-8a70-46f83924a313",
+      "cms_league_id": "",
+      "cms_team_name": "Club Atl\u00e9tico de Madrid",
+      "polymarket_team_id": "148284",
+      "polymarket_league_id": "13",
+      "polymarket_team_name": "Club Atl\u00e9tico de Madrid",
+      "polymarket_team_slug": "atm",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "035c3d0f-d59b-4cf5-85eb-3b037b135138",
+      "cms_league_id": "",
+      "cms_team_name": "Arsenal FC",
+      "polymarket_team_id": "147325",
+      "polymarket_league_id": "13",
+      "polymarket_team_name": "Arsenal FC",
+      "polymarket_team_slug": "ars",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "fcd1020e-2cd0-40b9-a8ff-f4327f6dadb9",
+      "cms_league_id": "",
+      "cms_team_name": "Leeds United FC",
+      "polymarket_team_id": "114264",
+      "polymarket_league_id": "2",
+      "polymarket_team_name": "Leeds United FC",
+      "polymarket_team_slug": "lee",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "072e6726-3524-4550-b2bc-dd0cabba6e2d",
+      "cms_league_id": "",
+      "cms_team_name": "Wolverhampton Wanderers FC",
+      "polymarket_team_id": "100001",
+      "polymarket_league_id": "2",
+      "polymarket_team_name": "Wolverhampton Wanderers FC",
+      "polymarket_team_slug": "wol",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "07a936dc-9d3a-4874-9e61-452135a06040",
+      "cms_league_id": "",
+      "cms_team_name": "Tottenham Hotspur FC",
+      "polymarket_team_id": "100018",
+      "polymarket_league_id": "2",
+      "polymarket_team_name": "Tottenham Hotspur FC",
+      "polymarket_team_slug": "tot",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "1c1e0f9b-3385-42da-9453-74a22b77341d",
+      "cms_league_id": "",
+      "cms_team_name": "Brighton & Hove Albion FC",
+      "polymarket_team_id": "100015",
+      "polymarket_league_id": "2",
+      "polymarket_team_name": "Brighton & Hove Albion FC",
+      "polymarket_team_slug": "bri",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "64573051-88b5-40d4-aba3-85ac467b0a25",
+      "cms_league_id": "",
+      "cms_team_name": "Chelsea FC",
+      "polymarket_team_id": "100014",
+      "polymarket_league_id": "2",
+      "polymarket_team_name": "Chelsea FC",
+      "polymarket_team_slug": "che",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "cbbed7c2-7219-417b-b697-08ed7d7beb03",
+      "cms_league_id": "",
+      "cms_team_name": "Nottingham Forest FC",
+      "polymarket_team_id": "100007",
+      "polymarket_league_id": "2",
+      "polymarket_team_name": "Nottingham Forest FC",
+      "polymarket_team_slug": "not",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "56c95119-b236-4840-9c48-7dd12ca218e7",
+      "cms_league_id": "",
+      "cms_team_name": "Burnley FC",
+      "polymarket_team_id": "114265",
+      "polymarket_league_id": "2",
+      "polymarket_team_name": "Burnley FC",
+      "polymarket_team_slug": "bur",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "763f573c-5ecb-4ff7-82b7-8ccf3a13e46f",
+      "cms_league_id": "",
+      "cms_team_name": "Everton FC",
+      "polymarket_team_id": "100013",
+      "polymarket_league_id": "2",
+      "polymarket_team_name": "Everton FC",
+      "polymarket_team_slug": "eve",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "21a2ecaa-5f99-4369-8de3-ba95ab9e3812",
+      "cms_league_id": "",
+      "cms_team_name": "Liverpool FC",
+      "polymarket_team_id": "100017",
+      "polymarket_league_id": "2",
+      "polymarket_team_name": "Liverpool FC",
+      "polymarket_team_slug": "liv",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "c701e01c-7dcd-49b8-a965-d96e45ebd779",
+      "cms_league_id": "",
+      "cms_team_name": "Manchester City FC",
+      "polymarket_team_id": "100004",
+      "polymarket_league_id": "2",
+      "polymarket_team_name": "Manchester City FC",
+      "polymarket_team_slug": "mac",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "05273e3e-db46-4e1b-9c6f-887835f28510",
+      "cms_league_id": "",
+      "cms_team_name": "Arsenal FC",
+      "polymarket_team_id": "100005",
+      "polymarket_league_id": "2",
+      "polymarket_team_name": "Arsenal FC",
+      "polymarket_team_slug": "ars",
+      "notes": "EPL entry \u2014 different from UCL Arsenal (147325)"
+    },
+    {
+      "cms_team_id": "794e7ff5-72a9-4211-9f87-80fee666c602",
+      "cms_league_id": "",
+      "cms_team_name": "FC Bayern M\u00fcnchen",
+      "polymarket_team_id": "101129",
+      "polymarket_league_id": "7",
+      "polymarket_team_name": "FC Bayern M\u00fcnchen",
+      "polymarket_team_slug": "bay",
+      "notes": "Bundesliga entry \u2014 different from UCL Bayern (148255)"
+    },
+    {
+      "cms_team_id": "6ca862b0-f384-4609-90c3-d653809d9f7d",
+      "cms_league_id": "",
+      "cms_team_name": "VfB Stuttgart",
+      "polymarket_team_id": "101133",
+      "polymarket_league_id": "7",
+      "polymarket_team_name": "VfB Stuttgart",
+      "polymarket_team_slug": "stu",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "7eda7e2a-75fd-49d6-bb3e-b832eb7230b3",
+      "cms_league_id": "aa0b0d9c-804b-422c-a9c5-8ad8ae737e33",
+      "cms_team_name": "AS Roma",
+      "polymarket_team_id": "101127",
+      "polymarket_league_id": "12",
+      "polymarket_team_name": "AS Roma",
+      "polymarket_team_slug": "rom",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "012d571b-bab9-4a78-89f8-cb5f5f349da3",
+      "cms_league_id": "aa0b0d9c-804b-422c-a9c5-8ad8ae737e33",
+      "cms_team_name": "Atalanta BC",
+      "polymarket_team_id": "101116",
+      "polymarket_league_id": "12",
+      "polymarket_team_name": "Atalanta BC",
+      "polymarket_team_slug": "ata",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "0669d09b-7a9e-41cf-a70d-94d67d0648bd",
+      "cms_league_id": "aa0b0d9c-804b-422c-a9c5-8ad8ae737e33",
+      "cms_team_name": "Juventus FC",
+      "polymarket_team_id": "101109",
+      "polymarket_league_id": "12",
+      "polymarket_team_name": "Juventus FC",
+      "polymarket_team_slug": "juv",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "4a6fb8bd-30aa-41df-acfe-68e5bf62c3fd",
+      "cms_league_id": "aa0b0d9c-804b-422c-a9c5-8ad8ae737e33",
+      "cms_team_name": "Bologna FC 1909",
+      "polymarket_team_id": "101121",
+      "polymarket_league_id": "12",
+      "polymarket_team_name": "Bologna FC 1909",
+      "polymarket_team_slug": "bol",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "69eed0f3-e282-470e-aca0-47f79c9125bc",
+      "cms_league_id": "aa0b0d9c-804b-422c-a9c5-8ad8ae737e33",
+      "cms_team_name": "Hellas Verona FC",
+      "polymarket_team_id": "101117",
+      "polymarket_league_id": "12",
+      "polymarket_team_name": "Hellas Verona FC",
+      "polymarket_team_slug": "ver",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "5ddb4f5f-f6bb-4cef-a6b2-b19b3f2b9606",
+      "cms_league_id": "aa0b0d9c-804b-422c-a9c5-8ad8ae737e33",
+      "cms_team_name": "AC Milan",
+      "polymarket_team_id": "101113",
+      "polymarket_league_id": "12",
+      "polymarket_team_name": "AC Milan",
+      "polymarket_team_slug": "mil",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "11cccd75-3ccd-4b7c-8b85-a9e8f22f6c3d",
+      "cms_league_id": "de1bd252-baf5-4417-89ba-77d635f5f8f0",
+      "cms_team_name": "Aston Villa FC",
+      "polymarket_team_id": "100009",
+      "polymarket_league_id": "2",
+      "polymarket_team_name": "Aston Villa FC",
+      "polymarket_team_slug": "ast",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "43a01c0d-91c6-4467-93a9-d30bf8732f5c",
+      "cms_league_id": "de1bd252-baf5-4417-89ba-77d635f5f8f0",
+      "cms_team_name": "Sunderland AFC",
+      "polymarket_team_id": "114263",
+      "polymarket_league_id": "2",
+      "polymarket_team_name": "Sunderland AFC",
+      "polymarket_team_slug": "sun",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "43072d1e-ceea-49d3-a566-dbcb976afe57",
+      "cms_league_id": "30c19a6e-da71-4fef-942c-f7cf01fd42e4",
+      "cms_team_name": "RCD Mallorca",
+      "polymarket_team_id": "101037",
+      "polymarket_league_id": "3",
+      "polymarket_team_name": "RCD Mallorca",
+      "polymarket_team_slug": "mal",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "8fcde827-e4c9-4cf8-8c69-2c2fb11f8d93",
+      "cms_league_id": "30c19a6e-da71-4fef-942c-f7cf01fd42e4",
+      "cms_team_name": "Valencia CF",
+      "polymarket_team_id": "101095",
+      "polymarket_league_id": "3",
+      "polymarket_team_name": "Valencia CF",
+      "polymarket_team_slug": "val",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "63dad02b-0882-4c2c-ad49-96b39f8d5bae",
+      "cms_league_id": "de1bd252-baf5-4417-89ba-77d635f5f8f0",
+      "cms_team_name": "Crystal Palace FC",
+      "polymarket_team_id": "100006",
+      "polymarket_league_id": "2",
+      "polymarket_team_name": "Crystal Palace FC",
+      "polymarket_team_slug": "cry",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "52953235-1f7a-4817-a788-3c858e24da8c",
+      "cms_league_id": "de1bd252-baf5-4417-89ba-77d635f5f8f0",
+      "cms_team_name": "West Ham United FC",
+      "polymarket_team_id": "100003",
+      "polymarket_league_id": "2",
+      "polymarket_team_name": "West Ham United FC",
+      "polymarket_team_slug": "wes",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "c9d3b999-2131-483c-91f9-9ea8ca13b18d",
+      "cms_league_id": "30c19a6e-da71-4fef-942c-f7cf01fd42e4",
+      "cms_team_name": "Athletic Club",
+      "polymarket_team_id": "101047",
+      "polymarket_league_id": "3",
+      "polymarket_team_name": "Athletic Club",
+      "polymarket_team_slug": "bil",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "2ea0120e-037e-405f-a48b-1101fe7054f1",
+      "cms_league_id": "30c19a6e-da71-4fef-942c-f7cf01fd42e4",
+      "cms_team_name": "CA Osasuna",
+      "polymarket_team_id": "101036",
+      "polymarket_league_id": "3",
+      "polymarket_team_name": "CA Osasuna",
+      "polymarket_team_slug": "osa",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "e2f8307a-727e-4c56-b666-78661545c213",
+      "cms_league_id": "30c19a6e-da71-4fef-942c-f7cf01fd42e4",
+      "cms_team_name": "Girona FC",
+      "polymarket_team_id": "101035",
+      "polymarket_league_id": "3",
+      "polymarket_team_name": "Girona FC",
+      "polymarket_team_slug": "gir",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "83c016a8-6d05-4464-b88e-73a35bf67010",
+      "cms_league_id": "30c19a6e-da71-4fef-942c-f7cf01fd42e4",
+      "cms_team_name": "Real Betis Balompi\u00e9",
+      "polymarket_team_id": "101030",
+      "polymarket_league_id": "3",
+      "polymarket_team_name": "Real Betis Balompi\u00e9",
+      "polymarket_team_slug": "bet",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "70d1c8a2-40af-4a71-9dd6-b069ed0eafa8",
+      "cms_league_id": "30c19a6e-da71-4fef-942c-f7cf01fd42e4",
+      "cms_team_name": "Real Madrid CF",
+      "polymarket_team_id": "101034",
+      "polymarket_league_id": "3",
+      "polymarket_team_name": "Real Madrid CF",
+      "polymarket_team_slug": "rea",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "18d34cca-0183-4e07-b18a-309dc090fb56",
+      "cms_league_id": "30c19a6e-da71-4fef-942c-f7cf01fd42e4",
+      "cms_team_name": "Deportivo Alav\u00e9s",
+      "polymarket_team_id": "101029",
+      "polymarket_league_id": "3",
+      "polymarket_team_name": "Deportivo Alav\u00e9s",
+      "polymarket_team_slug": "ala",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "5b356798-9e6a-4243-8169-14c5a67808a3",
+      "cms_league_id": "30c19a6e-da71-4fef-942c-f7cf01fd42e4",
+      "cms_team_name": "Elche CF",
+      "polymarket_team_id": "114297",
+      "polymarket_league_id": "3",
+      "polymarket_team_name": "Elche CF",
+      "polymarket_team_slug": "elc",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "2d79273d-506a-4bc5-aa51-45b8ddbe9f92",
+      "cms_league_id": "30c19a6e-da71-4fef-942c-f7cf01fd42e4",
+      "cms_team_name": "Club Atl\u00e9tico de Madrid",
+      "polymarket_team_id": "101043",
+      "polymarket_league_id": "3",
+      "polymarket_team_name": "Club Atl\u00e9tico de Madrid",
+      "polymarket_team_slug": "mad",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "1f04b277-bf62-4206-9c51-8ec456b0dbe5",
+      "cms_league_id": "30c19a6e-da71-4fef-942c-f7cf01fd42e4",
+      "cms_team_name": "FC Barcelona",
+      "polymarket_team_id": "101042",
+      "polymarket_league_id": "3",
+      "polymarket_team_name": "FC Barcelona",
+      "polymarket_team_slug": "bar",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "f2831a09-7cc8-4bbe-8666-08eee6620473",
+      "cms_league_id": "30c19a6e-da71-4fef-942c-f7cf01fd42e4",
+      "cms_team_name": "RC Celta de Vigo",
+      "polymarket_team_id": "101044",
+      "polymarket_league_id": "3",
+      "polymarket_team_name": "RC Celta de Vigo",
+      "polymarket_team_slug": "cel",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "54f47cb1-3000-4edb-b9a9-cdfba9bde975",
+      "cms_league_id": "de1bd252-baf5-4417-89ba-77d635f5f8f0",
+      "cms_team_name": "AFC Bournemouth",
+      "polymarket_team_id": "100010",
+      "polymarket_league_id": "2",
+      "polymarket_team_name": "AFC Bournemouth",
+      "polymarket_team_slug": "bou",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "747780b0-b05b-4645-934b-2ad30644681a",
+      "cms_league_id": "de1bd252-baf5-4417-89ba-77d635f5f8f0",
+      "cms_team_name": "Fulham FC",
+      "polymarket_team_id": "100011",
+      "polymarket_league_id": "2",
+      "polymarket_team_name": "Fulham FC",
+      "polymarket_team_slug": "ful",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "c396b003-9604-42d9-9b94-e7ce6f5d5d4b",
+      "cms_league_id": "de1bd252-baf5-4417-89ba-77d635f5f8f0",
+      "cms_team_name": "Newcastle United FC",
+      "polymarket_team_id": "100000",
+      "polymarket_league_id": "2",
+      "polymarket_team_name": "Newcastle United FC",
+      "polymarket_team_slug": "new",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "16d3e397-ca62-4d19-b4d1-8e7b0b0567f6",
+      "cms_league_id": "b0828767-10ab-4288-b18d-a6f2f481b2e8",
+      "cms_team_name": "1. FC K\u00f6ln",
+      "polymarket_team_id": "114294",
+      "polymarket_league_id": "7",
+      "polymarket_team_name": "1. FC K\u00f6ln",
+      "polymarket_team_slug": "koe",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "e29713e4-7e9e-4d9e-8019-8ae3880d4765",
+      "cms_league_id": "b0828767-10ab-4288-b18d-a6f2f481b2e8",
+      "cms_team_name": "Hamburger SV",
+      "polymarket_team_id": "114295",
+      "polymarket_league_id": "7",
+      "polymarket_team_name": "Hamburger SV",
+      "polymarket_team_slug": "hsv",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "9cc6745c-4a18-4e35-9ce8-d016aebbd6a8",
+      "cms_league_id": "b0828767-10ab-4288-b18d-a6f2f481b2e8",
+      "cms_team_name": "SV Werder Bremen",
+      "polymarket_team_id": "101140",
+      "polymarket_league_id": "7",
+      "polymarket_team_name": "SV Werder Bremen",
+      "polymarket_team_slug": "wer",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "235f3639-d563-4d93-84ff-1ba4658a843b",
+      "cms_league_id": "b0828767-10ab-4288-b18d-a6f2f481b2e8",
+      "cms_team_name": "SC Freiburg",
+      "polymarket_team_id": "101130",
+      "polymarket_league_id": "7",
+      "polymarket_team_name": "SC Freiburg",
+      "polymarket_team_slug": "fre",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "cbaeb569-b260-4bde-8287-87f84526ecb8",
+      "cms_league_id": "aa0b0d9c-804b-422c-a9c5-8ad8ae737e33",
+      "cms_team_name": "US Lecce",
+      "polymarket_team_id": "101118",
+      "polymarket_league_id": "12",
+      "polymarket_team_name": "US Lecce",
+      "polymarket_team_slug": "lec",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "e8cd8301-0c56-4fa6-be00-137460d4ccaa",
+      "cms_league_id": "aa0b0d9c-804b-422c-a9c5-8ad8ae737e33",
+      "cms_team_name": "ACF Fiorentina",
+      "polymarket_team_id": "101110",
+      "polymarket_league_id": "12",
+      "polymarket_team_name": "ACF Fiorentina",
+      "polymarket_team_slug": "fio",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "bb195977-e27e-45d2-871f-aecd49bf8f12",
+      "cms_league_id": "aa0b0d9c-804b-422c-a9c5-8ad8ae737e33",
+      "cms_team_name": "Pisa SC",
+      "polymarket_team_id": "114300",
+      "polymarket_league_id": "12",
+      "polymarket_team_name": "Pisa SC",
+      "polymarket_team_slug": "pis",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "0386f8c9-5b99-4505-b2c5-b363e6c81f56",
+      "cms_league_id": "aa0b0d9c-804b-422c-a9c5-8ad8ae737e33",
+      "cms_team_name": "US Sassuolo Calcio",
+      "polymarket_team_id": "114301",
+      "polymarket_league_id": "12",
+      "polymarket_team_name": "US Sassuolo Calcio",
+      "polymarket_team_slug": "sas",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "6178cdb6-ec8a-4488-93fc-608e6dae5939",
+      "cms_league_id": "30c19a6e-da71-4fef-942c-f7cf01fd42e4",
+      "cms_team_name": "Real Sociedad de F\u00fatbol",
+      "polymarket_team_id": "101045",
+      "polymarket_league_id": "3",
+      "polymarket_team_name": "Real Sociedad de F\u00fatbol",
+      "polymarket_team_slug": "rso",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "a7525b51-fe06-43a6-850a-49a59e70a7dd",
+      "cms_league_id": "30c19a6e-da71-4fef-942c-f7cf01fd42e4",
+      "cms_team_name": "Getafe CF",
+      "polymarket_team_id": "101031",
+      "polymarket_league_id": "3",
+      "polymarket_team_name": "Getafe CF",
+      "polymarket_team_slug": "get",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "abcd220d-cd4a-4e08-9906-f98355995448",
+      "cms_league_id": "30c19a6e-da71-4fef-942c-f7cf01fd42e4",
+      "cms_team_name": "Levante",
+      "polymarket_team_id": "114298",
+      "polymarket_league_id": "3",
+      "polymarket_team_name": "Levante UD",
+      "polymarket_team_slug": "lev",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "8cbe650a-ec9a-4bb2-ab1c-1dd7aed30ad7",
+      "cms_league_id": "30c19a6e-da71-4fef-942c-f7cf01fd42e4",
+      "cms_team_name": "Sevilla",
+      "polymarket_team_id": "101040",
+      "polymarket_league_id": "3",
+      "polymarket_team_name": "Sevilla FC",
+      "polymarket_team_slug": "sev",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "79391f56-a0e9-4bb0-9fd2-2bce07b14eec",
+      "cms_league_id": "30c19a6e-da71-4fef-942c-f7cf01fd42e4",
+      "cms_team_name": "Rayo",
+      "polymarket_team_id": "101046",
+      "polymarket_league_id": "3",
+      "polymarket_team_name": "Rayo Vallecano de Madrid",
+      "polymarket_team_slug": "ray",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "70e297d2-2c88-43c8-bb4f-f30325283b8e",
+      "cms_league_id": "30c19a6e-da71-4fef-942c-f7cf01fd42e4",
+      "cms_team_name": "Espanyol",
+      "polymarket_team_id": "101033",
+      "polymarket_league_id": "3",
+      "polymarket_team_name": "RCD Espanyol de Barcelona",
+      "polymarket_team_slug": "esp",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "b21f17fd-7dde-4382-8889-b7e431638ba2",
+      "cms_league_id": "30c19a6e-da71-4fef-942c-f7cf01fd42e4",
+      "cms_team_name": "Oviedo",
+      "polymarket_team_id": "114296",
+      "polymarket_league_id": "3",
+      "polymarket_team_name": "Real Oviedo",
+      "polymarket_team_slug": "ovi",
+      "notes": ""
+    },
+    {
+      "cms_team_id": "ecc67396-4887-4c01-8924-60e555ffa146",
+      "cms_league_id": "30c19a6e-da71-4fef-942c-f7cf01fd42e4",
+      "cms_team_name": "Villarreal",
+      "polymarket_team_id": "101038",
+      "polymarket_league_id": "3",
+      "polymarket_team_name": "Villarreal CF",
+      "polymarket_team_slug": "vil",
+      "notes": ""
+    }
+  ]
+}
